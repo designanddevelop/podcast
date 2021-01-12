@@ -6,58 +6,39 @@
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>San Francisco, California</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Rody Davis, Norbert Kozsir</author>
-    <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-    <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+    <author>Design and Develop</author>
+    <itunes:author>Design and Develop</itunes:author>
+    <itunes:email>podcast@designdevelop.studio</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>Creative Engineering</title>
-      <link>https://rodydavis.github.io/podcast-player/</link>
+      <url>https://avatars3.githubusercontent.com/u/77326018?s=460</url>
+      <title>Design and Develop</title>
+      <link>https://designanddevelop.github.io/podcast/</link>
     </image>
     <itunes:owner>
-      <itunes:name>Rody Davis</itunes:name>
-      <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+      <itunes:name>Design and Develop</itunes:name>
+      <itunes:email>podcast@designdevelop.studio</itunes:email>
     </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
-    <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <itunes:keywords>design,develop</itunes:keywords>
+    <copyright>Design and Develop 2020</copyright>
+    <description>Test description</description>
+    <googleplay:image href="https://avatars3.githubusercontent.com/u/77326018?s=460" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
     <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <itunes:image href="https://avatars3.githubusercontent.com/u/77326018?s=460" />
     <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
+      <author>Design and Develop</author>
+      <itunes:author>Design and Develop</itunes:author>
+      <title>Test title 1</title>
       <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <enclosure url="https://designanddevelop.github.io/podcast/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
       <itunes:duration>54:08</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://rodydavis.github.io/podcast-player/
+Some sort of description goes here I guess
         </description>
     </item>
   </channel>

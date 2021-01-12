@@ -19,7 +19,7 @@ const RESOURCES = {
 "audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555",
 "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
 "img/icon.jpg": "900666dc913f9acaa2d76127a2972814",
-"feed.xml": "408686e7c418edeec1af89656038b1c1",
+"feed.xml": "dea893a294f863ac60917a728c01b47e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
