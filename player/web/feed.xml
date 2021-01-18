@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Creative Engineering</title>
-    <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
+    <title>Design and Develop</title>
+    <googleplay:author>Design and Develop</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>San Francisco, California</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
@@ -20,26 +24,26 @@
       <itunes:email>podcast@designdevelop.studio</itunes:email>
     </itunes:owner>
     <itunes:keywords>design,develop</itunes:keywords>
-    <copyright>Design and Develop 2020</copyright>
+    <copyright>Design and Develop 2021</copyright>
     <description>Test description</description>
     <googleplay:image href="https://avatars3.githubusercontent.com/u/77326018?s=460" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
+    <pubDate>Sunday, 17 January 2021 13:00:00 PDT</pubDate>
+    <link>https://designanddevelop.github.io/podcast/feed.xml</link>
     <itunes:image href="https://avatars3.githubusercontent.com/u/77326018?s=460" />
     <item>
       <author>Design and Develop</author>
       <itunes:author>Design and Develop</itunes:author>
-      <title>Test title 1</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://designanddevelop.github.io/podcast/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <title>Episode 1</title>
+      <pubDate>Sunday, 17 January 2021 13:00:00 GMT</pubDate>
+      <enclosure url="https://designanddevelop.github.io/podcast/audio/1.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>1:11</itunes:duration>
+      <guid isPermaLink="false">dndpod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
 Some sort of description goes here I guess
-        </description>
+      </description>
     </item>
   </channel>
 </rss>
